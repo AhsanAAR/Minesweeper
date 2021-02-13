@@ -5,4 +5,4 @@ I have used C# Buttons and use a 2d array to store state of the game. The logic 
 
 # Screenshot
 
-![](/screenshot.png)
+![](/screenshot.PNG)
